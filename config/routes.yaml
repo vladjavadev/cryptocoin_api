@@ -1,0 +1,11 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
+
+
+# api_coin:
+#     path:       /api/v1/coin/{id}
+#     controller: App\Controller\CoinController::getCoin
+#     methods:    GET|HEAD
